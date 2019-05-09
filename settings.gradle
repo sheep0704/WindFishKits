@@ -1,1 +1,1 @@
-include ':windfishutils'
+include ':windfishutils', ':myapplication', ':mylibrary'
