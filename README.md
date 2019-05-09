@@ -1,7 +1,7 @@
 # WindFishKit
 Some utils for android.
 
-[![](https://jitpack.io/v/VexingHanson/WindFishKit.svg)](https://jitpack.io/#VexingHanson/WindFishKit)
+[![](https://jitpack.io/v/sheep0704/WindFishKits.svg)](https://jitpack.io/#sheep0704/WindFishKits)
 
 ---
 
